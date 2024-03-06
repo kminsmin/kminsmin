@@ -1,3 +1,9 @@
+
+<div align='center'>
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=b7e0e2&height=280&section=header&text=kminsmin&fontSize=60&desc=hi%20there%20👋&animation=fadeIn&descAlign=56)
+
+
 ### Language
 
 <p>
