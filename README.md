@@ -1,7 +1,7 @@
 
 <div align='center'>
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=9999ff&height=280&section=header&text=kminsmin&fontSize=60&desc=hi%20there%20👋&animation=fadeIn&descAlign=56)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9999ff&height=280&section=header&text=kminsmin&fontSize=60&desc=welcome%20👋&animation=fadeIn&descAlign=56)
 
 
 ### Language
