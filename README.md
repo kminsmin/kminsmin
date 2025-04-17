@@ -29,7 +29,7 @@
 [![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=kminsmin)](https://solved.ac/kminsmin)
 <br />
 <br />
-![kminsmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kminsmin&show_icons=true&theme=dark)
+![kminsmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kminsmin&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kminsmin&layout=compact&height=50)](https://github.com/kminsmin/github-readme-stats)
 
 
